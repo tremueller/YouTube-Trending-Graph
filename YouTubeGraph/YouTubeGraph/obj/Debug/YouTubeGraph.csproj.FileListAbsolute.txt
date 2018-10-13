@@ -1,0 +1,15 @@
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\bin\Debug\YouTubeGraph.exe.config
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\bin\Debug\YouTubeGraph.exe
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\bin\Debug\YouTubeGraph.pdb
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\obj\Debug\YouTubeGraph.csprojAssemblyReference.cache
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\obj\Debug\YouTubeGraph.Form1.resources
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\obj\Debug\YouTubeGraph.Properties.Resources.resources
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\obj\Debug\YouTubeGraph.csproj.GenerateResource.cache
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\obj\Debug\YouTubeGraph.csproj.CoreCompileInputs.cache
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\obj\Debug\YouTubeGraph.exe
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\obj\Debug\YouTubeGraph.pdb
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\obj\Debug\YouTubeGraph.csproj.CopyComplete
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\bin\Debug\YouTubeLibrary.dll
+C:\Projects\C#\YouTubeGraph\YouTubeGraph\bin\Debug\YouTubeLibrary.pdb

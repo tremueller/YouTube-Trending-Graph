@@ -1,0 +1,12 @@
+C:\Projects\C#\YouTubeGraph\Test\bin\Debug\Test.exe.config
+C:\Projects\C#\YouTubeGraph\Test\bin\Debug\Test.exe
+C:\Projects\C#\YouTubeGraph\Test\bin\Debug\Test.pdb
+C:\Projects\C#\YouTubeGraph\Test\bin\Debug\YouTubeLibrary.dll
+C:\Projects\C#\YouTubeGraph\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\C#\YouTubeGraph\Test\bin\Debug\YouTubeLibrary.pdb
+C:\Projects\C#\YouTubeGraph\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\C#\YouTubeGraph\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Projects\C#\YouTubeGraph\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Projects\C#\YouTubeGraph\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Projects\C#\YouTubeGraph\Test\obj\Debug\Test.exe
+C:\Projects\C#\YouTubeGraph\Test\obj\Debug\Test.pdb
