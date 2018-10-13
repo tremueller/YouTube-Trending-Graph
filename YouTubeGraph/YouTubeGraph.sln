@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeGraph", "YouTubeGraph\YouTubeGraph.csproj", "{5E3E36E9-C619-4E56-96BF-68676B3FA1B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7582C2F2-EEB3-4711-BB0B-59E31C3F8C6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTags", "Test\CommonTags.csproj", "{7582C2F2-EEB3-4711-BB0B-59E31C3F8C6D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeLibrary", "YouTubeGraph\YouTubeLibrary\YouTubeLibrary.csproj", "{315E02D2-D3D0-4663-A840-C8D88070D51F}"
 EndProject
