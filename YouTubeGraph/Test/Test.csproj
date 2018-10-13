@@ -49,7 +49,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\YouTubeLibrary\YouTubeLibrary.csproj">
+    <ProjectReference Include="..\YouTubeGraph\YouTubeLibrary\YouTubeLibrary.csproj">
       <Project>{315e02d2-d3d0-4663-a840-c8d88070d51f}</Project>
       <Name>YouTubeLibrary</Name>
     </ProjectReference>

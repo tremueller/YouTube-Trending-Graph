@@ -7,3 +7,11 @@ C:\Projects\C#\YouTubeLibrary\obj\Debug\YouTubeLibrary.csproj.CoreCompileInputs.
 C:\Projects\C#\YouTubeLibrary\obj\Debug\YouTubeLibrary.csproj.CopyComplete
 C:\Projects\C#\YouTubeLibrary\obj\Debug\YouTubeLibrary.dll
 C:\Projects\C#\YouTubeLibrary\obj\Debug\YouTubeLibrary.pdb
+C:\Projects\C#\YouTube-Trending-Graph\YouTubeGraph\YouTubeGraph\YouTubeLibrary\bin\Debug\YouTubeLibrary.dll
+C:\Projects\C#\YouTube-Trending-Graph\YouTubeGraph\YouTubeGraph\YouTubeLibrary\bin\Debug\YouTubeLibrary.pdb
+C:\Projects\C#\YouTube-Trending-Graph\YouTubeGraph\YouTubeGraph\YouTubeLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\C#\YouTube-Trending-Graph\YouTubeGraph\YouTubeGraph\YouTubeLibrary\obj\Debug\YouTubeLibrary.csprojAssemblyReference.cache
+C:\Projects\C#\YouTube-Trending-Graph\YouTubeGraph\YouTubeGraph\YouTubeLibrary\obj\Debug\YouTubeLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\C#\YouTube-Trending-Graph\YouTubeGraph\YouTubeGraph\YouTubeLibrary\obj\Debug\YouTubeLibrary.csproj.CopyComplete
+C:\Projects\C#\YouTube-Trending-Graph\YouTubeGraph\YouTubeGraph\YouTubeLibrary\obj\Debug\YouTubeLibrary.dll
+C:\Projects\C#\YouTube-Trending-Graph\YouTubeGraph\YouTubeGraph\YouTubeLibrary\obj\Debug\YouTubeLibrary.pdb
