@@ -24,13 +24,14 @@ namespace YouTubeLibrary
                     data.Add(videoChunk);
                 } while (nextPageToken != "&pageToken=");
             }
-            //Conversion for categories
+            //Get the keys for converting category numbers to actual categories
             CategoriesList categoryResponse;
             using (WebClient wc = new WebClient())
             {
                 var response = wc.DownloadString("https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&regionCode=US&key=" + key);
                 categoryResponse = JsonConvert.DeserializeObject<CategoriesList>(response);
             }
+            //Dict to convert category numbers to category names
             Dictionary<string, string> categoryConversion = new Dictionary<string, string>();
             categoryConversion.Add("0", "No Category");
             foreach (Item c in categoryResponse.items)
