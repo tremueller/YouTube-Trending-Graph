@@ -32,7 +32,7 @@ namespace Test
                     }
                 }
             }
-
+            //Reverse tagCount to show the most common tags
             SortedDictionary<int, string> sortedTagCount = new SortedDictionary<int, string>();
             foreach (string tag in tagCount.Keys)
             {
