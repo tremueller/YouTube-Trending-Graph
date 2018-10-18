@@ -55,11 +55,28 @@ namespace Test
         }
         static void CommonCategories()
         {
-            
+            //Print Most Common Tags
+            List<Video> vids = Find.retrieveVideos();
+            Dictionary<String, int> commonCat = new Dictionary<string, int>();
+            foreach(Video vid in vids)
+            {
+                if (commonCat.ContainsKey(vid.Category))
+                {
+                    commonCat[vid.Category]++;
+                } else
+                {
+                    commonCat[vid.Category] = 1;
+                }
+            }
+            foreach(String key in commonCat.Keys)
+            {
+                Console.WriteLine(key + " " + commonCat[key]);
+            }
         }
         static void Main(string[] args)
         {
             CommonTags();
+            CommonCategories();
         }
     }
 }
