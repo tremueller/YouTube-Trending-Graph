@@ -9,10 +9,9 @@ namespace Test
 {
     class Program
     {
-        static void CommonTags()
+        //Prints the most common tags with an occurence greater than 1
+        static void CommonTags(List<Video> vids)
         {
-            //Print Most Common Tags
-            List<Video> vids = Find.retrieveVideos();
             Dictionary<string, int> tagCount = new Dictionary<string, int>();
 
             foreach (Video vid in vids)
@@ -53,10 +52,9 @@ namespace Test
                 }
             }
         }
-        static void CommonCategories()
+        //Print the most common categories
+        static void CommonCategories(List<Video> vids)
         {
-            //Print Most Common Tags
-            List<Video> vids = Find.retrieveVideos();
             Dictionary<String, int> commonCat = new Dictionary<string, int>();
             foreach(Video vid in vids)
             {
@@ -75,8 +73,9 @@ namespace Test
         }
         static void Main(string[] args)
         {
-            CommonTags();
-            CommonCategories();
+            List<Video> vids = Find.retrieveVideos();
+            CommonTags(vids);
+            CommonCategories(vids);
         }
     }
 }
