@@ -73,7 +73,7 @@ namespace Test
         }
         static void Main(string[] args)
         {
-            List<Video> vids = Find.retrieveVideos();
+            List<Video> vids = Utility.retrieveVideos();
             CommonTags(vids);
             CommonCategories(vids);
         }
