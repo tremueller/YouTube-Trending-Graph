@@ -84,11 +84,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Test\CommonTags.csproj">
-      <Project>{7582c2f2-eeb3-4711-bb0b-59e31c3f8c6d}</Project>
-      <Name>CommonTags</Name>
-    </ProjectReference>
-    <ProjectReference Include="YouTubeLibrary\YouTubeLibrary.csproj">
+    <ProjectReference Include="..\YouTubeLibrary\YouTubeLibrary.csproj">
       <Project>{315e02d2-d3d0-4663-a840-c8d88070d51f}</Project>
       <Name>YouTubeLibrary</Name>
     </ProjectReference>

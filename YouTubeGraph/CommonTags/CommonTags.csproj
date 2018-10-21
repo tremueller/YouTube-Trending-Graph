@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{35837DCF-2C6B-4AEA-B6F1-974DC1FF7FC3}</ProjectGuid>
+    <ProjectGuid>{4FBEBF4A-CA6D-4E11-B885-E01D771232BC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TrackAverage</RootNamespace>
-    <AssemblyName>TrackAverage</AssemblyName>
+    <RootNamespace>CommonTags</RootNamespace>
+    <AssemblyName>CommonTags</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
